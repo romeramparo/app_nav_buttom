@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="cream_ligth">#f8f4c4</color>
+    <color name="green_pop">#d5e0b5</color>
+    <color name="green_militar">#a5c3a7</color>
+    <color name="green_dark">#6d8b89</color>
+    <color name="blue_militar">#47667B</color>
+</resources>

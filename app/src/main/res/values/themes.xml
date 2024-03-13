@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asignacion8Romeramparo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_dark</item>
+        <item name="colorPrimaryVariant">@color/cream_ligth</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Asignacion8Romeramparo" parent="Base.Theme.Asignacion8Romeramparo" />
+
+    <style name="BottomNavigation">
+        <item name="android:background">@color/blue_militar</item>
+        <item name="itemIconTint">@color/green_dark</item>
+        <item name="itemTextColor">@color/green_militar</item>
+    </style>
+</resources>
